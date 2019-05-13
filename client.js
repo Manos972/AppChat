@@ -1,3 +1,4 @@
+'use strict';
 var socket = io();
 
 $('form').submit(function(e) {
