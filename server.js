@@ -1,3 +1,5 @@
+'use strict';
+
 // Tout d'abbord on initialise notre application avec le framework Express 
 // et la bibliothèque http integrée à node.
 var express = require('express');
